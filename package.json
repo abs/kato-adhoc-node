@@ -1,0 +1,26 @@
+{
+  "author": {
+    "name": "Kato"
+  },
+  "name": "kato-adhoc",
+  "description": "npm test package",
+  "version": "1.0.0",
+  "repository": {
+    "url": ""
+  },
+  "main": "./lib/main",
+  "bin": {
+    "katoAdhoc": "./bin/kato-adhoc.js"
+  },
+  "dependencies": {
+    "jwt-simple": "~0.2.0"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "readme": "",
+  "readmeFilename": "README.md"
+}
+
