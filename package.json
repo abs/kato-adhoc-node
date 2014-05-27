@@ -4,14 +4,11 @@
   },
   "name": "kato-adhoc",
   "description": "npm test package",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "repository": {
-    "url": ""
+    "url": "https://github.com/abs/kato-adhoc"
   },
   "main": "./lib/main",
-  "bin": {
-    "katoAdhoc": "./bin/kato-adhoc.js"
-  },
   "dependencies": {
     "jwt-simple": "~0.2.0"
   },
